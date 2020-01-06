@@ -108,10 +108,15 @@ header {
 
 /* Work Experience
 ------------------------------------*/
-.work-experience {
-  background: #A1C6D7;
-}
+.work-experience .btn {
+  color: #DEB992;
+  background: none;
+  padding: 10px 20px;
 
+  
+
+
+}
 
 
 /* Education
@@ -141,3 +146,16 @@ footer {
   padding: 15px;
   display: inline-block;
 }
+
+
+/* Gallery
+------------------------------------*/
+body {
+background-image: url(../images/food.jpg);
+background-image: url(../images/cat.jpg);
+background-image: url(../images/festival.jpg);
+}
+
+
+
+
